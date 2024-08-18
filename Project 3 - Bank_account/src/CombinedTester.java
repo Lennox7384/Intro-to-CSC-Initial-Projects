@@ -5,7 +5,7 @@
  * @author lmagak
  */
 
-public class BankAccountAndMoneyMarketAccountTester {
+public class CombinedTester {
 
     /**
      * The main method calls some methods of the BankAccount and MoneyMarketAccount classes
