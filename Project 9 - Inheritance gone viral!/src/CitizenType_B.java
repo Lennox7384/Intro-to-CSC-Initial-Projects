@@ -4,7 +4,7 @@
  * which unfortunately leads to deaths not related to Covid in anyway. 
  * In London, there is many cases of street stubbings
  * In the USA cities there are many cases of public shootings, and ofcourse all other societies have some form of crime leading to unexpected deaths
- * . These deaths in real life, occur anytime irrespective of whether it was covid erra or not.
+ * . These deaths in real life, occur anytime irrespective of whether it was covid erra.
  * 
  * For this reason, its meaningful to simulate a map with bad people in it. 
  * 
