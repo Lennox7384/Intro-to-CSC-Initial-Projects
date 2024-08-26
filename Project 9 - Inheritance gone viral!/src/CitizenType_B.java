@@ -13,7 +13,7 @@
  * Fortunately, they dont have many neighbours to affect. They can DOTHEIRTHING() to two cells adjuscent to them.
  * This means we are going to change possible moves. 
  * 
- * DSince people cant react in a meaningful way when they get mudered, we'll probably  use the react method to collect counts of deths unrelated to covid. 
+ * Since people cant react in a meaningful way when they get mudered, we'll probably  use the react method to collect counts of deaths unrelated to covid. 
  * 
  * Lets roll in. 
  * 
